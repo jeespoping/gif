@@ -10,7 +10,7 @@ Aplicacion hecha en react para buscar cualquier tipo de gif
 
 - clonar el repositorio
 - ejecutar el comando `npm install`
-- ejecutar el comando `ng serve --o`
+- ejecutar el comando `npm start`
 
 ## Deploy
 [gif](https://gif-jeespoping.netlify.app/)
